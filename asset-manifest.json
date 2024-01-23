@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FixHealth/static/css/main.c56f0db9.css",
+    "main.js": "/FixHealth/static/js/main.e81c6959.js",
+    "index.html": "/FixHealth/index.html",
+    "main.c56f0db9.css.map": "/FixHealth/static/css/main.c56f0db9.css.map",
+    "main.e81c6959.js.map": "/FixHealth/static/js/main.e81c6959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56f0db9.css",
+    "static/js/main.e81c6959.js"
+  ]
+}
